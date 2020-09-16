@@ -1,0 +1,11 @@
+.result-wrapper{
+    display: grid;
+    width: 33.3%;
+    justify-content: center;
+    text-align: center;
+
+    .totalVotes{
+        text-align: left;
+        padding-left: 35px;
+    }
+}
